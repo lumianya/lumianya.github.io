@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-22T14:26:21.490Z</updated>
+  <updated>2024-11-23T13:19:33.124Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-11-23的资源分享</title>
+    <link href="http://example.com/posts/3.html"/>
+    <id>http://example.com/posts/3.html</id>
+    <published>2024-11-23T12:38:23.000Z</published>
+    <updated>2024-11-23T13:19:33.124Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2024-11-23资源分享"><a href="#2024-11-23资源分享" class="headerlink" title="2024-11-23资源分享"></a>2024-11-23资源分享</h1><p>争取每天分享资源，希望大家能喜欢！</p><h2 id="🆔-软件名称：DBeaver"><a href="#🆔-软件名称：DBeaver" class="headerlink" title="🆔  软件名称：DBeaver"></a>🆔  软件名称：DBeaver</h2><p><img src="/images/%E4%BA%8C%E7%9A%841.jpg"></p><p>⭐️  软件功能：<strong>数据库管理</strong></p><p>➡️  支持平台：#Windows #macOS #Linux</p><blockquote><p>📁  软件简介：一款免费的数据库管理工具，适用于开发人员、数据库管理员和数据分析师等各种数据工作者。</p><p>支持多种流行的 SQL 数据库，如 MySQL、MariaDB、PostgreSQL、SQLite 等，同时也兼容 NoSQL 数据库（如 MongoDB、Cassandra 等）和云数据库（如 Redshift、Google BigQuery 等）。</p><p>提供了丰富的功能，包括数据编辑器、SQL 编辑器、数据库架构编辑器、数据导入导出、任务管理和数据库维护工具等。</p></blockquote><p>⬇️ 软件下载：<a href="https://dbeaver.io/download/">点击下载</a></p><p>🔗 开源地址：<a href="https://github.com/dbeaver/dbeaver">点击访问</a></p><p>##Windows #macOS #Linux #数据库 #工具</p><hr><h2 id="🆔-项目名称：Cloudflare-Proxy-EX"><a href="#🆔-项目名称：Cloudflare-Proxy-EX" class="headerlink" title="🆔  项目名称：Cloudflare Proxy EX"></a>🆔  项目名称：Cloudflare Proxy EX</h2><p><img src="/images/%E4%BA%8C%E7%9A%842.jpg"></p><p>⭐️  项目功能：<strong>超级代理工具</strong></p><blockquote><p>📁  项目简介：一个基于 Cloudflare 的超级代理工具，提供无服务器的代理服务。支持多种功能，包括 DuckDuckGo 聊天、OpenAI&#x2F;ChatGPT 代理、GitHub 加速等。</p><p>可以通过 Cloudflare Worker 轻松设置和使用该代理，访问被限制的网站或服务。</p></blockquote><p>🌐  项目地址：<a href="https://github.com/1234567Yang/cf-proxy-ex">点击直达</a></p><p>#代理 #工具 #Windows</p><hr><h2 id="🆔-软件名称：FtpServer"><a href="#🆔-软件名称：FtpServer" class="headerlink" title="🆔  软件名称：FtpServer"></a>🆔  软件名称：FtpServer</h2><p><img src="/images/%E4%BA%8C%E7%9A%843.jpg"></p><p>⭐️  软件功能：<strong>FTP 文件服务器</strong></p><p>➡️  支持平台：#Windows</p><blockquote><p>📁  软件简介：一个基于 Python 的 FTP 文件服务器，提供简便的文件传输和管理功能。</p><p>可以通过一键启动 FTP 服务器，方便其他设备在网络上进行文件的上传和下载。</p><p>支持 IPv4 和 IPv6 协议，并且具备 FTPS 加密功能，确保数据传输的安全性。</p></blockquote><p>⬇️ 软件下载：<a href="https://github.com/jark006/FtpServer/releases">点击下载</a></p><p>#Windows #文件</p><hr><h2 id="🗣twittervid：Twitter-视频下载器"><a href="#🗣twittervid：Twitter-视频下载器" class="headerlink" title="🗣twittervid：Twitter 视频下载器"></a>🗣twittervid：Twitter 视频下载器</h2><p><img src="/images/%E4%BA%8C%E7%9A%844.jpg"></p><p>⭐️  软件功能：<strong>Twitter Video Downloader</strong></p><p>🏷 标签：#网站 #浏览器扩展 #视频下载 #X 解析 #推特解析</p><p>👉 链接：<a href="https://twittervid.com/zh">https://twittervid.com/zh</a></p><hr><h2 id="🆔-软件名称：Figura"><a href="#🆔-软件名称：Figura" class="headerlink" title="🆔  软件名称：Figura"></a>🆔  软件名称：Figura</h2><p><img src="/images/%E4%BA%8C%E7%9A%845.jpg"></p><blockquote><p>⭐️ 软件功能：免费的 macOS 图像背景去除工具，提供一键背景移除功能，支持拖放和粘贴等多种输入方式，界面现代简洁</p></blockquote><p>🏷 标签：#macOS #免费 #去背景 #抠图</p><p>👉 链接：<a href="https://github.com/nuance-dev/figura/releases">https://github.com/nuance-dev/figura/releases</a></p><hr><h2 id="🆔-软件名称：Text-Behind-Image"><a href="#🆔-软件名称：Text-Behind-Image" class="headerlink" title="🆔  软件名称：Text Behind Image"></a>🆔  软件名称：Text Behind Image</h2><p><img src="/images/%E4%BA%8C%E7%9A%846.jpg"></p><blockquote><p>⭐️ 软件功能：文字后嵌入，轻松生成海报级别的图片，开源的在线图像处理工具，只需上传图片，然后通过 AI 处理添加文字，就能快速将文字置入主体后方</p></blockquote><p>🏷 标签：#源码 #网站 #AI #图片处理</p><p>👉 链接：<a href="https://textbehindimage.rexanwong.xyz/">https://textbehindimage.rexanwong.xyz/</a></p><p>Github：<a href="https://github.com/RexanWONG/text-behind%E2%80%94%E2%80%94">https://github.com/RexanWONG/text-behind——</a></p><hr><h2 id="🆔-软件名称：云搭"><a href="#🆔-软件名称：云搭" class="headerlink" title="🆔  软件名称：云搭"></a>🆔  软件名称：云搭</h2><p><img src="/images/%E4%BA%8C%E7%9A%847.jpg"></p><blockquote><p>⭐️ 软件功能：低代码解决方案，轻松构建小程序和 H5 应用，通过拖拽组件和实时编辑功能，快速构建出满足需求的项目，非常适合开发者和设计师使用</p></blockquote><p>🏷 标签：#小程序 #低代码 #开源 #开发</p><p>👉 链接：<a href="https://www.sunmao-design.top/sunmao/admin/#/dooring/home">https://www.sunmao-design.top/sunmao/admin/#/dooring/home</a></p><p>GitHub：<a href="https://github.com/wangyuan389/yunda">https://github.com/wangyuan389/yunda</a></p><hr><h2 id="🆔-软件名称：雨燕输入法"><a href="#🆔-软件名称：雨燕输入法" class="headerlink" title="🆔  软件名称：雨燕输入法"></a>🆔  软件名称：雨燕输入法</h2><p><img src="/images/%E4%BA%8C%E7%9A%848.jpg"></p><blockquote><p>⭐️ 软件功能：基于 Rime 引擎的开源高效中文输入法，支持多种输入方式，包括九键、全拼、双拼和手写</p><p>阿喵我装上用了两天，体验很好，就是词库需要慢慢养。如果你还在用搜狗等国产输入法，请尝试用用 rime 系列的输入法。远离隐私泄露</p></blockquote><p>🏷 标签：#安卓 #输入法 #rime #开源</p><p>👉 链接：<a href="https://github.com/gurecn/YuyanIme/releases">https://github.com/gurecn/YuyanIme/releases</a></p><p>Gitee：<a href="https://gitee.com/gurecn/YuyanIme/releases">https://gitee.com/gurecn/YuyanIme/releases</a></p><hr><h2 id="🆔-软件名称：Web-Tool"><a href="#🆔-软件名称：Web-Tool" class="headerlink" title="🆔  软件名称：Web Tool"></a>🆔  软件名称：Web Tool</h2><p><img src="/images/%E4%BA%8C%E7%9A%849.jpg"></p><blockquote><p>⭐️ 软件功能：一个开源的网页导航，直接下载源码上传即可部署，界面美观，操作简单</p></blockquote><p>🏷 标签：#源码 #导航 #导航网站 #开源</p><p>👉 链接：<a href="https://geeeeeeeek.github.io/web_tool/">https://geeeeeeeek.github.io/web_tool/</a></p><p>GitHub：<a href="https://github.com/geeeeeeeek/web_tool">https://github.com/geeeeeeeek/web_tool</a></p><hr><h2 id="🆔-软件名称：FreeCompress"><a href="#🆔-软件名称：FreeCompress" class="headerlink" title="🆔  软件名称：FreeCompress"></a>🆔  软件名称：FreeCompress</h2><p><img src="/images/%E4%BA%8C%E7%9A%8410.jpg"></p><blockquote><p>⭐️ 软件功能：全面支持图像、视频、PDF 等格式的免费在线压缩工具</p></blockquote><p>🏷 标签：#网站 #音频压缩 #图片压缩 #视频压缩 #文档压缩</p><p>👉 链接：<a href="https://freecompress.com/zh-cn">https://freecompress.com/zh-cn</a></p><hr><p>📢<a href="https://t.me/kemiaofx_me">频道</a>  ✈️ <a href="https://t.me/+x3Cysfgpqh84ZmY1">群聊</a> <a href="https://github.com/Kemiaojun/kemiaofx">Github项目</a> <a href="https://gitee.com/kemiaoshiwo/kemiaodfx">Gitee项目</a> <a href="https://www.31492611.xyz/">资源页</a> <a href="https://share.feijipan.com/s/FQDHZYsk">云盘</a></p>]]></content>
+    
+    
+    <summary type="html">资源分享#2</summary>
+    
+    
+    
+    <category term="资源分享" scheme="http://example.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android" scheme="http://example.com/tags/Android/"/>
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Windows" scheme="http://example.com/tags/Windows/"/>
+    
+    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    
+    <category term="macOS" scheme="http://example.com/tags/macOS/"/>
+    
+    <category term="开源" scheme="http://example.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="视频" scheme="http://example.com/tags/%E8%A7%86%E9%A2%91/"/>
+    
+    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
+    
+    <category term="输入法" scheme="http://example.com/tags/%E8%BE%93%E5%85%A5%E6%B3%95/"/>
+    
+    <category term="小程序" scheme="http://example.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    <category term="源码" scheme="http://example.com/tags/%E6%BA%90%E7%A0%81/"/>
+    
+    <category term="图片处理" scheme="http://example.com/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇博客</title>
