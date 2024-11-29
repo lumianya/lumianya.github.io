@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-28T22:59:08.692Z</updated>
+  <updated>2024-11-29T14:22:40.981Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2024-11-29资源分享</title>
+    <link href="http://example.com/posts/5.html"/>
+    <id>http://example.com/posts/5.html</id>
+    <published>2024-11-29T14:08:23.000Z</published>
+    <updated>2024-11-29T14:22:40.981Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2024-11-29-资源分享"><a href="#2024-11-29-资源分享" class="headerlink" title="2024-11-29 资源分享"></a>2024-11-29 资源分享</h1><p><strong>致力于分享资源，喜欢的可以关注一下~</strong></p><h2 id="🆔-项目名称：Tinymind"><a href="#🆔-项目名称：Tinymind" class="headerlink" title="🆔  项目名称：Tinymind"></a>🆔  项目名称：Tinymind</h2><p><img src="/images/%E5%9B%9B%E7%9A%841.jpg"></p><p>⭐️  <strong>项目功能</strong>：使用 Github 写博客</p><p>📁  <strong>项目简介</strong>：一个开源的通过 GitHub 轻松撰写和同步博客及个人想法的工具。</p><p>只需使用 GitHub 账号登录，Tinymind 会自动创建一个名为“tinymind-blog”的公共仓库，所有在 Tinymind 上撰写的内容都会即时同步到该仓库中。</p><p>不需要服务器，所有数据直接存储在用户的 GitHub 账户中，支持 Markdown 格式。</p><p>🌐  项目地址：<a href="https://github.com/mazzzystar/tinymind">点击直达</a></p><p>🏷 标签：#Github #博客</p><hr><h2 id="🗣Topit：macOS-上的应用窗口置顶工具"><a href="#🗣Topit：macOS-上的应用窗口置顶工具" class="headerlink" title="🗣Topit：macOS 上的应用窗口置顶工具"></a>🗣Topit：macOS 上的应用窗口置顶工具</h2><p><img src="/images/%E5%9B%9B%E7%9A%842.jpg"></p><p>📁 <strong>软件简介</strong>：Topit 是一个开源工具，专为 macOS 用户设计，可以让用户将任意多个应用窗口强制置顶显示。用户可以自由移动、缩放或与被置顶窗口进行交互，提高工作效率。使用 Topit，只需启动应用，选择需要置顶的窗口，然后点击“立即置顶”即可。<br>📁 <strong>特色</strong>：<br>应用窗口置顶：将任意多个窗口置顶显示。<br>用户交互：允许用户与置顶窗口进行自由移动、缩放等交互。<br>简单易用：启动 Topit，选择窗口，点击“立即置顶”即可。<br>开源项目：代码开源，用户可以自由使用和贡献代码</p><p>👉 GitHub：<a href="https://github.com/lihaoyun6/Topit/releases">项目直达</a></p><p>🏷 标签：#macOS #窗口置顶 #免费开源</p><hr><h2 id="🗣Markdown-Poster：Markdown-转海报图片，用-Markdown-制作优雅的图文海报"><a href="#🗣Markdown-Poster：Markdown-转海报图片，用-Markdown-制作优雅的图文海报" class="headerlink" title="🗣Markdown Poster：Markdown 转海报图片，用 Markdown 制作优雅的图文海报"></a>🗣Markdown Poster：Markdown 转海报图片，用 Markdown 制作优雅的图文海报</h2><p><img src="/images/%E5%9B%9B%E7%9A%843.jpg"></p><p>📁 <strong>网站简介</strong>：Markdown To Poster 是一个开源工具，能够将 Markdown 内容渲染成适合社交媒体分享的图片。它提供了一个内置模板和 9 个自定义主题，支持模板扩展，并允许用户复制输出为图像。此外，该项目还包含了一个内置的 WEB 编辑器，可以一键部署，方便用户在线编辑 Markdown 并快速生成海报图片。</p><p>同时网站还提供一个免费的海报渲染 API，可以集成到你的网站、Bot、ChatGPT、Coze 等平台。</p><p>📁 <strong>特色</strong>：<br>Markdown 渲染：将 Markdown 内容转换为视觉吸引人的社交媒体图片。<br>内置模板：提供一个基础模板，并支持用户自定义模板。<br>自定义主题：内置 9 个主题，用户可以根据需要选择或创建新主题。<br>一键复制为图像：方便用户将生成的海报直接复制为图像使用。<br>内置 WEB 编辑器：提供在线编辑器，支持一键部署，方便在线编辑和转换 Markdown。</p><p>👉 网站：<a href="https://readpo.com/zh/poster">点击直达</a><br>👉GitHub：<a href="https://github.com/gcui-art/markdown-to-image">点击直达</a></p><p>🏷 标签：#网站 #海报 #markdown #免费 #开源</p><hr><h2 id="🗣-发票排版助手：免费在线电子发票合并与排版工具，专为财务人员设计，支持-PDF、PNG、JPG-格式的电子发票合并与排版"><a href="#🗣-发票排版助手：免费在线电子发票合并与排版工具，专为财务人员设计，支持-PDF、PNG、JPG-格式的电子发票合并与排版" class="headerlink" title="🗣 发票排版助手：免费在线电子发票合并与排版工具，专为财务人员设计，支持 PDF、PNG、JPG 格式的电子发票合并与排版"></a>🗣 发票排版助手：免费在线电子发票合并与排版工具，专为财务人员设计，支持 PDF、PNG、JPG 格式的电子发票合并与排版</h2><p><img src="/images/%E5%9B%9B%E7%9A%844.jpg"></p><p>📁 <strong>网站简介</strong>：发票排版助手是一个免费在线工具，专为财务人员设计，支持 PDF、PNG、JPG 格式的电子发票合并与排版。用户可以通过拖拽排序和批量处理发票，所有操作都在本地完成，确保数据安全，无需担心数据泄露风险。</p><p>📁 <strong>特色</strong>：<br>多种格式支持：支持 PDF、PNG、JPG 格式的电子发票。<br>批量处理：上传自动合并，一次支持 200+ 张发票。<br>拖拽排序：自由调整发票顺序，方便快捷。<br>免费使用：无需任何费用，免费提供服务。<br>数据安全：纯客户端操作，所有文件均在本地处理，无需登录或注册，支持断网使用，隐私保障。</p><p>👉 链接：<a href="https://fapiao.365yhb.com/">点击直达</a></p><p>🏷 标签：#网站 #发票 #发票排版 #免费</p><hr><h2 id="🗣AKTV：可以看港澳台的电视直播-APP"><a href="#🗣AKTV：可以看港澳台的电视直播-APP" class="headerlink" title="🗣AKTV：可以看港澳台的电视直播 APP"></a>🗣AKTV：可以看港澳台的电视直播 APP</h2><p><img src="/images/%E5%9B%9B%E7%9A%845.jpg"></p><p>📁 <strong>软件介绍</strong>：流畅观看港澳台频道，基于上次分享的 aktv 直播源，封装成了 APP，可以直接在手机和电视上安装使用</p><p>👉 软件链接：<strong>点击直达</strong><br>👉 TG 备份：<a href="https://t.me/kemiaosw_me/389">点击直达</a></p><p>🏷 标签：#安卓 #TV #港澳台 #电视直播</p><hr><h2 id="🎵-Playlistor-自托管-Apple-Music-到-Spotify-播放列表互相转换器"><a href="#🎵-Playlistor-自托管-Apple-Music-到-Spotify-播放列表互相转换器" class="headerlink" title="🎵 Playlistor - 自托管 Apple Music 到 Spotify 播放列表互相转换器"></a>🎵 Playlistor - 自托管 Apple Music 到 Spotify 播放列表互相转换器</h2><iframe src="/video/四的6.mp4" width="560" height="360" frameborder="0" allowfullscreen> </iframe><p>▎ 项目功能：Apple Music 和 Spotify 播放列表互转</p><p>▎ 项目介绍：一个开源音乐播放列表转换工具，它可以将 Apple Music 和 Spotify 的播放列表进行转换和同步，只需输入播放列表链接即可进行转换。</p><p>▎ 项目地址：<a href="https://github.com/akornor/playlistor">点击打开</a></p><p>▎ 在线使用：<a href="https://playlistor.io/">点击打开</a></p><p>🏷 标签：#GitHub #音乐 #工具</p><hr><h2 id="➡️-Kubernetes-现代化-Kubernetes-可视化工具"><a href="#➡️-Kubernetes-现代化-Kubernetes-可视化工具" class="headerlink" title="➡️ Kubernetes - 现代化 Kubernetes 可视化工具"></a>➡️ Kubernetes - 现代化 Kubernetes 可视化工具</h2><p><img src="/images/%E5%9B%9B%E7%9A%848.jpg"></p><p>▎ 项目功能：Kubernetes 可视化</p><p>▎ 项目介绍：一个智能化的 Kubernetes 平台，它为 K8s 带来了高级的搜索、洞察和 AI 功能。</p><p>本质上是一个 K8s 可视化工具，通过 Karpor，您可以在任何云平台上获得对 Kubernetes 集群的关键可见性。</p><p>▎ 项目地址：<a href="https://github.com/KusionStack/karpor">点击打开</a></p><p>▎ 在线体验：<a href="https://karpor-demo.kusionstack.io/">点击体验</a></p><p>🏷 标签：#GitHub #工具</p><hr><h2 id="📁-Zeal-开源简单的离线文档浏览器"><a href="#📁-Zeal-开源简单的离线文档浏览器" class="headerlink" title="📁 Zeal - 开源简单的离线文档浏览器"></a>📁 Zeal - 开源简单的离线文档浏览器</h2><p><img src="/images/%E5%9B%9B%E7%9A%849.jpg"></p><p>▎ 软件功能：离线文档浏览器</p><p>▎ 软件平台：#Windows #macOS #Linux</p><p>▎ 软件介绍：一个免费开源离线文档浏览器，支持从 Dash (<a href="https://kapeli.com/dash">https://kapeli.com/dash</a>) 的文档库下载数百种编程语言、框架和工具的文档，并离线保存。</p><p>支持快速搜索、关键词高亮以及多标签浏览，帮助开发者在没有网络时高效查询技术文档。</p><p>▎ 软件下载：<a href="https://github.com/zealdocs/zeal/releases">点击下载</a></p><p>🏷 标签：#软件 #工具 #开源</p><hr><h2 id="🪟-WindowResizer-Windows-窗口大小调整器"><a href="#🪟-WindowResizer-Windows-窗口大小调整器" class="headerlink" title="🪟 WindowResizer - Windows 窗口大小调整器"></a>🪟 WindowResizer - Windows 窗口大小调整器</h2><p><img src="/source%5Cimages/%E5%9B%9B%E7%9A%8410.jpg"></p><p>▎ 软件功能：窗口大小调整</p><p>▎ 软件平台：#Windows</p><p>▎ 软件介绍：一个用于调整窗口大小的软件，这对于那些无法调整大小的窗口尤其有用。</p><p>它还可以去除窗口的边框，并强制最大化，适合那些无法全屏显示的程序，比如某些游戏。</p><p>▎ 软件下载：<a href="https://github.com/zhongyang219/WindowResizer/releases">点击下载</a></p><p>🏷 标签：#软件 #工具 #开源</p><hr><h2 id="📸-QrCodeScanner-简易二维码-条形码扫描器"><a href="#📸-QrCodeScanner-简易二维码-条形码扫描器" class="headerlink" title="📸 QrCodeScanner - 简易二维码 &#x2F; 条形码扫描器"></a>📸 QrCodeScanner - 简易二维码 &#x2F; 条形码扫描器</h2><p><img src="/images/%E5%9B%9B%E7%9A%8411.jpg"></p><p>▎ 软件功能：二维码 &#x2F; 条形码识别</p><p>▎ 软件平台：#Windows</p><p>▎ 软件介绍：一款开源电脑二维码 &#x2F; 条形码扫描器，支持截图识别、摄像头识别、本地图片识别、作为扫描枪使用四种模式。</p><p>支持多码同扫，支持传统 Zbar、Zxing 和超高识别率速度超快的 OpenCV 三种主流引擎。</p><p>▎ 软件下载：<a href="https://github.com/1357310795/QrCodeScanner/releases">点击下载</a></p><p>🏷 标签：#软件 #工具 #开源</p><hr><p>📢 <a href="https://t.me/kemiaofx_me">频道</a>  ✈️ <a href="https://t.me/+x3Cysfgpqh84ZmY1">群聊</a> <a href="https://github.com/Kemiaojun/kemiaofx">Github 项目</a> <a href="https://gitee.com/kemiaoshiwo/kemiaodfx">Gitee 项目</a> <a href="https://www.31492611.xyz/">资源页</a> <a href="https://share.feijipan.com/s/FQDHZYsk">云盘</a> </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;2024-11-29-资源分享&quot;&gt;&lt;a href=&quot;#2024-11-29-资源分享&quot; class=&quot;headerlink&quot; title=&quot;2024-11-29 资源分享&quot;&gt;&lt;/a&gt;2024-11-29 资源分享&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;致力于分享资源，喜欢</summary>
+      
+    
+    
+    
+    <category term="资源分享" scheme="http://example.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Android" scheme="http://example.com/tags/Android/"/>
+    
+    <category term="工具" scheme="http://example.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="macOS" scheme="http://example.com/tags/macOS/"/>
+    
+    <category term="开源" scheme="http://example.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+    <category term="网站" scheme="http://example.com/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="Github" scheme="http://example.com/tags/Github/"/>
+    
+    <category term="软件" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="免费" scheme="http://example.com/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="发票" scheme="http://example.com/tags/%E5%8F%91%E7%A5%A8/"/>
+    
+    <category term="窗口置顶" scheme="http://example.com/tags/%E7%AA%97%E5%8F%A3%E7%BD%AE%E9%A1%B6/"/>
+    
+    <category term="海报" scheme="http://example.com/tags/%E6%B5%B7%E6%8A%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>misakaX介绍</title>
